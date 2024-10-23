@@ -43,3 +43,17 @@ To run this project on your local machine, follow these steps:
 
 5. **Open the project in your web browser**:
    - Open your browser and visit `http://127.0.0.1:5000/` to see the form.
+
+
+
+
+
+## Evaluation Criteria
+- The system evaluates applicants based on specific criteria (e.g., whether their name or email contains the word "pharmacy").
+- Depending on the result, an automated email is sent to either accept or reject the applicant.
+
+## Email Setup
+To enable email functionality:
+1. Set up a Gmail account with [Less Secure Apps](https://myaccount.google.com/lesssecureapps) or use an app-specific password.
+2. Replace `your-email@gmail.com` and `your-password` in `main.py` with your actual credentials.
+
