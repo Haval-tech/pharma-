@@ -27,8 +27,8 @@ def submit():
 
 # Function to send an email
 def send_email(recipient_email, subject, body):
-    sender_email = "your-email@gmail.com"  # Replace with your email
-    sender_password = "your-password"      # Replace with your email password (or app-specific password)
+    sender_email = "halo.wigan@gmail.com"  # Your email
+    sender_password = "snod ncei ellk xxzb"  # Your app-specific password
 
     # Create the email content
     msg = MIMEText(body)
